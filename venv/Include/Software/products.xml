@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<xml>
+  <Assortment name="MRFK Datarekvisita">
+    </Assortment>
+  <Products>
+	<Product LocalCode="1234">
+		<Name>Emballasjeposer eller vesker</Name>
+	</Product>
+	<Product LocalCode="5678">
+		<Name>Med et grebsområde og skarpe udstansere er det</Name>
+	</Product>
+	<Product LocalCode="2345">
+		<Name>Hygieneposene sitter inni hygieneposeholderen og holdes effektivt på plass.</Name>
+	</Product>
+  </Products>
+</xml>
